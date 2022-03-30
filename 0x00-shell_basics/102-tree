@@ -1,2 +1,1 @@
-#!/bin/bash
-mkdir {welcome,to,school}
+-e#!/bin/bash\nmkdir welcome to school
