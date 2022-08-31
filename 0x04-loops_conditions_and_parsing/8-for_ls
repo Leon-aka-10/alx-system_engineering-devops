@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Lists out files in dir
+
+for list in *
+do
+  echo "$list" | cut -f 2- -d '-'
+done
